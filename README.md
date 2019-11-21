@@ -1,2 +1,2 @@
-# K_400-TWRP
-Just for testing TWRP
+# K_400
+Just for testing by now...
